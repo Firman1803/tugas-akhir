@@ -1,4 +1,3 @@
-# pages/3_Prediction.py
 import streamlit as st
 import joblib
 
