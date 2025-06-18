@@ -1,4 +1,3 @@
-# pages/2_Model_Performance.py
 import streamlit as st
 import joblib
 from sklearn.metrics import classification_report, confusion_matrix
